@@ -39,10 +39,12 @@ Este é um exemplo de 2 marcas que foram adicionadas neste banco de dados ("lact
 * HTML 5
 * CSS 3
 * PHP
-* MysqlAdmin  
+* Mysql 
 ## 🔧Ferramentas utilizadas
 * Visual Code
 * GitHub
+* MysqlAdmin
+* xampp
 ## 🔗Fontes consultadas
 * Chat gpt
 * Google
